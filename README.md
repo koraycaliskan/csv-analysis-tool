@@ -3,6 +3,8 @@
 
 🚀 Uygulamayı Canlıda Dene
 
+https://44ai-csv-tool.streamlit.app/
+
 ✨ Özellikler
 Kolay Veri Yükleme: Sürükle-bırak yöntemiyle CSV dosyalarınızı anında yükleyin.
 
@@ -33,12 +35,15 @@ Görselleştirme: Matplotlib & Seaborn
 Projeyi kendi bilgisayarınızda çalıştırmak isterseniz:
 
 1. Bu depoyu klonlayın:
+   
    git clone https://github.com/koraycaliskan/csv-analysis-tool.git
 
-2. Gerekli kütüphaneleri yükleyin:
+3. Gerekli kütüphaneleri yükleyin:
+   
    pip install -r requirements.txt
 
-3. Uygulamayı başlatın:
+5. Uygulamayı başlatın:
+   
    streamlit run app.py
 
 👨‍💻 Geliştirici
