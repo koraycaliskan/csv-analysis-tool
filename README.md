@@ -5,6 +5,12 @@
 
 https://44ai-csv-tool.streamlit.app/
 
+## 📸 Uygulama Ekran Görüntüleri
+
+| 1. Veri Yükleme Ekranı | 2. Veri Bilgisi & İstatistikler | 3. Görsel Analiz & Grafikler |
+| :---: | :---: | :---: |
+| ![Giriş](ekran1.png) | ![İstatistikler](ekran2.png) | ![Grafik](ekran3.png) |
+
 ✨ Özellikler
 Kolay Veri Yükleme: Sürükle-bırak yöntemiyle CSV dosyalarınızı anında yükleyin.
 
